@@ -1,6 +1,6 @@
 # CapitalShop - E-commerce Website (MERN Stack)
 
-CapitalShop is a full-featured e-commerce web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It supports product browsing, user authentication, cart management, and order processing — all wrapped in a sleek modern UI.
+CapitalShop is a full-featured e-commerce web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It supports product browsing, user authentication, cart management, and order processing all wrapped in a sleek modern UI.
 
 ## Features
 
